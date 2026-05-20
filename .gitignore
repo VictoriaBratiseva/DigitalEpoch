@@ -1,10 +1,13 @@
 # Входные и выходные данные
+input-dir/
 base_pages/
 hold_dataset/
 *.pdf
 *.jpg
 *.jpeg
 *.png
+input_pdfs/
+hold_dataset.zip
 
 # Python
 __pycache__/
