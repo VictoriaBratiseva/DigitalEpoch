@@ -1,0 +1,20 @@
+# Входные и выходные данные
+base_pages/
+hold_dataset/
+*.pdf
+*.jpg
+*.jpeg
+*.png
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
