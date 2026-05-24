@@ -1,0 +1,8 @@
+input_dir: ./input_pdfs
+output_dir: ./hold_dataset
+samples: 500
+min_clouds: 0
+max_clouds: 5
+hold_font_size: 26
+dpi: 160
+train_ratio: 0.8

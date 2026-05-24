@@ -1,13 +1,21 @@
-# Входные и выходные данные
-input-dir/
-base_pages/
+# Input/output data
+input_pdfs/*
+!input_pdfs/.gitkeep
+output/*
+!output/.gitkeep
 hold_dataset/
+datasets/
+runs/
+weights/
 *.pdf
+*.zip
 *.jpg
 *.jpeg
 *.png
-input_pdfs/
-hold_dataset.zip
+*.pt
+*.onnx
+*.engine
+*.tflite
 
 # Python
 __pycache__/
@@ -15,9 +23,8 @@ __pycache__/
 .venv/
 venv/
 
-# VS Code
+# IDE/system
 .vscode/
-
-# Системные файлы
+.idea/
 .DS_Store
 Thumbs.db
