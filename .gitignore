@@ -7,6 +7,8 @@ hold_dataset/
 datasets/
 runs/
 weights/
+hold_dataset_300/
+hold_dataset_500_v2/
 *.pdf
 *.zip
 *.jpg
